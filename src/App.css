@@ -1,3 +1,26 @@
+body{
+  background-image: url("back.png");
+  background-size: 100%;
+}
+.imagee{
+  margin-left: 711px !important; 
+    margin-top: -180px !important;  
+}
+.name{
+  color: aqua;
+  text-align: center;
+ font-size: xx-large;
+ margin-right: 410px !important;
+    margin-top: 250px!important;
+}
+.add{
+  color: aqua;
+  text-align: center;
+ font-size: xx-large;
+ margin-right: 420px !important;
+    margin-top: -250px!important;
+
+}
 .App {
   text-align: center;
 }
